@@ -4,7 +4,9 @@ Duel of Sorcerers
 You are witnessing an epic battle between two powerful sorcerers: Gandalf and Saruman. Each sorcerer has 10 spells of variable power in their mind and they are going to throw them one after the other. The winner of the duel will be the one who wins more of those clashes between spells. Spells are represented as a list of 10 integers whose value equals the power of the spell.
 
 gandalf = [10, 11, 13, 30, 22, 11, 10, 33, 22, 22]
+
 saruman = [23, 66, 12, 43, 12, 10, 44, 23, 12, 17]
+
 For example:
 
 The first clash is won by Saruman: 10 against 23.
@@ -21,5 +23,6 @@ You don't necessarily need to use all the tools. Maybe you opt to use some of th
 
 Data structures: lists, dictionaries
 Loop: for loop
+
 Conditional statements: if-elif-else
 Functions: range(), len(), print()
